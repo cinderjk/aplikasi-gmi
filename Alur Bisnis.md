@@ -1,0 +1,1 @@
+Alur Bisnis GMI akan menjelaskan bagaimana GMI, Mitra, Affiliator, dan Peserta
