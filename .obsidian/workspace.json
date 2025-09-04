@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alur Aplikasi.md",
+                "file": "Alur Bisnis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alur Aplikasi"
+              "title": "Alur Bisnis"
             }
           },
           {
@@ -217,8 +217,8 @@
   },
   "active": "494ee004ebcb58b2",
   "lastOpenFiles": [
-    "New folder",
     "Alur Aplikasi.md",
+    "New folder",
     "APLIKASI GMI.md",
     "Alur Bisnis.md"
   ]
