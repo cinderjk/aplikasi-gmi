@@ -1,0 +1,1 @@
+Data sync dari Obsidian.md
