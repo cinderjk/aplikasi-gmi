@@ -8,11 +8,16 @@ Berikut adalah alur bisnis lengkap platform dari awal hingga akhir, yang melibat
     
     - Admin masuk ke dasbor dan mengatur konfigurasi dasar situs: Nama, Logo, Mata Uang, PPN, dan pengaturan email.
         
-    - Admin membuat **Produk/Program** yang akan dipromosikan (misal: "Program Magang Jepang Batch 2025"), lengkap dengan harga, deskripsi, dan konten landing page. Terdapat pengaturan untuk mengubah grup pembeli ke grup tertentu. Contohnya: Tahap 1: Sosialisasi, Pendaftaran..., Pengaturan pembayaran per produk, admin dapat memilih produk hanya bisa dibeli dengan metode pambayaran apa.
+    - Admin membuat **Produk/Program** yang akan dipromosikan (misal: "Program Magang Jepang Batch 2025"), lengkap dengan harga, deskripsi, dan konten landing page. 
+    - Terdapat pengaturan untuk mengubah grup Calon Pemagang ke grup tertentu dan dengan keadaan tertentu. Contohnya: Jika Calon Pemagang mendaftar di "PUI - Tahap 1: Sosialisasi, Pendaftaran" di salah satu link mitra PUI, maka sistem akan memasukkannya ke grup "PESERTA TAHAP 1 - PUI"
+    - Terdapat pengaturan juga sebuah produk hanya bisa dibeli oleh grup tertentu, misalnya "PUI - Tahap 2: Seleksi Kesehatan MCU & IGRA (Seleksi 1)" yang hanya bisa dibeli oleh Calon Pemagang "PESERTA TAHAP 1 - PUI" dan seterusnya.
+    - Pengaturan metode pembayaran per produk: Admin dapat memilih sebuah produk hanya bisa dibeli dengan metode pambayaran apa (checkbox/pilihan ganda)
 		
-	- Admin Membuat Kupon dimana kupon dapat diatur: besar potongannya, berdasarkan persentase maupun nilai tetap. Kupon juga dapat diatur hanya untuk produk tertentu atau tidak untuk produk tertentu. Terdapat juga apakah kupon bisa memiliki turunan yang bisa dibuat oleh affiliator, agar kupon lebih personal. Contoh: Kupon asli "DISKONN50" dimana akan memberikan potongan 50rb, jika digunakan sebagai turunan oleh affiliator, maka affiliator bisa memilih kode kupon mereka sendiri, contohnya "BYE50" dimana akan memberikan potongan 50rb jika calon pemagang menggunakan kupon tersebut.
+	- Admin Membuat Kupon dimana kupon dapat diatur: besar potongannya, berdasarkan persentase maupun nilai tetap. Kupon juga dapat diatur untuk bisa digunakan di produk tertentu atau sebaliknya. 
+	- Kupon bisa memiliki turunan yang bisa dibuat oleh affiliator, tujuannya membuat kupon  lebih personal. Contoh: Kupon asli "DISKON50" dimana akan memberikan potongan harga 50rb, kupon ini dapat digunakan sebagai turunan oleh affiliator, dan affiliator bisa memilih kode kupon mereka sendiri, contohnya "BYE50" dimana juga akan memberikan potongan yang sama sebesar 50rb jika calon pemagang menggunakan kupon tersebut.
+	- Kupon juga bisa diatur waktu dan batas penggunaannya berdasarkan kuantitas
         
-    - Admin mengatur **sistem afiliasi**: besaran komisi dan masa berlaku _cookies_ (misal: 90 hari, atau selamanya).
+    - Admin mengatur **sistem afiliasi**: besaran komisi yang diterima affiliator dan masa berlaku _cookies_ (misal: nilai 90, untuk 90 hari, atau nilai 0 untuk selamanya).
 	    
     - Admin mengatur Grup Mitra, dimana nanti akan memiliki affiliator-affiliator, terdapat pengaturan bagi sebuah grup mitra dapat mengakses fitur affiliasi atau tidak.
         
