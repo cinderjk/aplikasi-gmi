@@ -8,7 +8,7 @@ Berikut adalah alur bisnis lengkap platform dari awal hingga akhir, yang melibat
     
     - Admin masuk ke dasbor dan mengatur konfigurasi dasar situs: Nama, Logo, Mata Uang, PPN, dan pengaturan email.
         
-    - Admin membuat **Produk/Program** yang akan dipromosikan (misal: "Program Magang Jepang Batch 2025"), lengkap dengan harga, deskripsi, dan konten landing page. Terdapat pengaturan untuk mengubah grup pembeli ke grup tertentu. Contohnya: Tahap 1: Sosialisasi, Pendaftaran, 
+    - Admin membuat **Produk/Program** yang akan dipromosikan (misal: "Program Magang Jepang Batch 2025"), lengkap dengan harga, deskripsi, dan konten landing page. Terdapat pengaturan untuk mengubah grup pembeli ke grup tertentu. Contohnya: Tahap 1: Sosialisasi, Pendaftaran..., Pengaturan pembayaran per produk, admin dapat memilih produk hanya bisa dibeli dengan metode pambayaran apa.
 		
 	- Admin Membuat Kupon dimana kupon dapat diatur: besar potongannya, berdasarkan persentase maupun nilai tetap. Kupon juga dapat diatur hanya untuk produk tertentu atau tidak untuk produk tertentu. Terdapat juga apakah kupon bisa memiliki turunan yang bisa dibuat oleh affiliator, agar kupon lebih personal. Contoh: Kupon asli "DISKONN50" dimana akan memberikan potongan 50rb, jika digunakan sebagai turunan oleh affiliator, maka affiliator bisa memilih kode kupon mereka sendiri, contohnya "BYE50" dimana akan memberikan potongan 50rb jika calon pemagang menggunakan kupon tersebut.
         
